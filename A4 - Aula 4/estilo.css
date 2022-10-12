@@ -1,0 +1,41 @@
+body {
+    background-color: #F7F7F7;
+}
+
+h1 {
+    color: rgb(226, 21, 21);
+    font-size: 50px;
+}
+
+h2 {
+    color: rgb(178, 176, 176);
+}
+
+.link {
+    color: blue;
+}
+
+.btn {
+    border-radius: 5px;
+    height: 30px;
+    min-width: 130px;
+    border: 0px;
+}
+
+.btn-green {
+    color: black;
+}
+
+.btn-green:hover {
+    color: white;
+    background-color: green;
+}
+
+.btn-white {
+    color: black;
+}
+
+.btn-white:hover {
+    color: white;
+    background-color: rgb(161, 0, 54);
+}
